@@ -59,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: https://kyrakimcom.files.wordpress.com/2020/01/cv_kim_han-kyul.pdf
+  link: https://kyrakimcom.files.wordpress.com/2020/08/cv_kim_han-kyul-1.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
