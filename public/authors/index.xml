@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | WaDL</title>
+    <link>https://www.richpauloo.com/authors/</link>
+      <atom:link href="https://www.richpauloo.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>WAter Data Lab © 2020</copyright>
+    <image>
+      <url>https://www.richpauloo.com/img/sharing.png</url>
+      <title>Authors</title>
+      <link>https://www.richpauloo.com/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://www.richpauloo.com/authors/01_rich/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.richpauloo.com/authors/01_rich/</guid>
+      <description>&lt;p&gt;I&#39;m a hydrogeologist developing scientific methods to monitor, model, and manage regional-scale aquifers, with applications in sustainable groundwater management, agricultural water use, and real-time natural resource monitoring.&lt;/p&gt;
+&lt;p&gt;I&#39;ve built physical &lt;a href=&#34;https://www.richpauloo.com/publication/vhgr/&#34;&gt;simulation models&lt;/a&gt; of groundwater flow and contaminant transport, open source frameworks for &lt;a href=&#34;https://www.richpauloo.com/project/lcsn/&#34;&gt;real-time groundwater monitoring&lt;/a&gt;, models that predict if a &lt;a href=&#34;https://www.richpauloo.com/publication/well-failure/&#34;&gt;well may run dry&lt;/a&gt; during drought or unsustainable management (complete with &lt;a href=&#34;https://www.gsawellfailure.com&#34;&gt;dashboards to communicate these findings&lt;/a&gt;), award-winning applications that bring clarity to &lt;a href=&#34;(http://www.calwaterquality.com)&#34;&gt;massive datasets&lt;/a&gt;, and &lt;code&gt;R&lt;/code&gt; &lt;a href=&#34;https://github.com/richpauloo/textme&#34;&gt;packages&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.richpauloo.com/authors/02_kyra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.richpauloo.com/authors/02_kyra/</guid>
+      <description>&lt;p&gt;Born and raised in South Korea, I finished high school at the Hankuk Academy of Foreign Studies with the Global Leader Certificate. I then moved to Austin, TX to attend the University of Texas at Austin (UT), where I received my B.S. in General Geology with Special Honors in Geological Sciences and B.A. in Music. During my time at UT, I gained valuable research experience in a paleogeochemistry lab, learning the basics of wet chemistry and soil sample processing.&lt;/p&gt;
+&lt;p&gt;I then started my doctoral studies with Dr. Holly Michael at the University of Delaware. Leveraging my experience with geochemistry, I led projects to understand the spatiotemporal dynamics of beach reactions controlled by the mixing between fresh groundwater and saline seawater. I led several field campaigns, laboratory experiments, and modeling studies. You can view the details of my projects &lt;a href=&#34;https://kyrakim.com/projects/&#34;&gt;here&lt;/a&gt; and the resulting publications &lt;a href=&#34;https://kyrakim.com/publications/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As of September 2019, I have taken a position at the Jet Propulsion Laboratory as a NASA Postdoctoral Fellow. Expanding upon my groundwater modeling expertise, I have ventured into the world of remote sensing. I am currently focusing on comparing groundwater storage measurements from &lt;a href=&#34;https://grace.jpl.nasa.gov/&#34;&gt;GRACE&lt;/a&gt; (and &lt;a href=&#34;https://gracefo.jpl.nasa.gov/&#34;&gt;GRACE-FO&lt;/a&gt;), &lt;a href=&#34;https://earth.esa.int/web/guest/missions/esa-operational-eo-missions/sentinel-1&#34;&gt;InSAR&lt;/a&gt;-measured subsidence, and numerically-modeled groundwater depletion / subsidence in the Central Valley of California.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.richpauloo.com/authors/03_aakash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.richpauloo.com/authors/03_aakash/</guid>
+      <description>&lt;p&gt;Aakash Ahamed is a hydrologist developing scientific methods for satellite and airborne remote sensing measurements with applications to water resources, natural hazards, and agricultural systems. As a PhD Candidate in the Department of Geophysics, his current doctoral project focuses on modeling, monitoring, and forecasting key hydrologic components of the Central Valley Aquifer System in California using techniques in data assimilation and machine learning. Aakash previously worked as a support scientist in the Hydrological Sciences Lab at NASA Goddard Space Flight Center, where he constructed satellite-based models of flood and landslide hazards. He has also developed remote sensing analyses and software at Ceres Imaging, a successful precision agriculture start up based in Silicon Valley, and interned as a GIS analyst at the World Wildlife Fund for Nature in Washington, DC.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.richpauloo.com/authors/04_corey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.richpauloo.com/authors/04_corey/</guid>
+      <description>&lt;p&gt;I develop methods in satellite remote sensing to study terrestrial hydrologic processes and associated human impacts. Where earth science and geopolitics overlay, I seek to develop insights from remote sensing observations that support scientific research in terrestrial hydrology and diplomatic accountability in the monitoring and management of increasingly scarce freshwater resources.&lt;/p&gt;
+&lt;p&gt;I was born and raised in Berkeley, CA.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
