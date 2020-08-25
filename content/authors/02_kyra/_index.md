@@ -46,12 +46,12 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/RichPauloo
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=_kz3AbMAAAAJ
 #- icon: github-alt
 #  icon_pack: fab
-#  link: https://github.com/richpauloo
+#  link: https://github.com/kyrahkkim
 #- icon: stack-overflow
 #  icon_pack: fab
 #  link: https://stackoverflow.com/users/8367943/rich-pauloo?tab=profile
