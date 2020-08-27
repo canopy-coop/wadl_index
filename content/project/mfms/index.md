@@ -34,6 +34,11 @@ links:
   icon_pack: ''
   name: Socioeconomic Paper
   url: https://doi.org/10.3390/hydrology5020023
+- icon: ''
+  icon_pack: ''
+  name: News
+  url: https://www.nasa.gov/feature/goddard/2018/scientists-deploy-damage-assessment-tool-in-laos-relief-efforts/
+
 
 url_project: 
 #url_pdf: ""
@@ -50,4 +55,4 @@ slides: ""
 
 ---
 
-Floods are the most costly natural disaster in terms of loss of life and damage to property. With [researchers at NASA's Goddard Space Flight Center](https://earth.gsfc.nasa.gov/hydro/highlights/near-real-time-flood-detection-and-socioeconomic-impact-assessment-lower-mekong), we developed automated software which uses remote sensing data to determine flood extent and socioecnomic damage. This information can be crucial for decision makers in the wake of extreme flood events.
+Floods are the most costly natural disaster in terms of loss of life and damage to property. With [researchers at NASA's Goddard Space Flight Center](https://earth.gsfc.nasa.gov/hydro/highlights/near-real-time-flood-detection-and-socioeconomic-impact-assessment-lower-mekong), we developed automated [software] (https://github.com/Servir-Mekong/MODIS_tools) which uses remote sensing data and statistics to determine flood extent and socioecnomic damage. This information can be crucial for decision makers in the wake of extreme flood events, and can help alleviate loss of life and damage to property. 
