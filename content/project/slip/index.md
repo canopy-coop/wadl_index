@@ -34,6 +34,11 @@ links:
   icon_pack: ''
   name: News
   url: https://www.nasa.gov/feature/goddard/2016/using-nasa-data-to-detect-potential-landslides
+- icon: ''
+  icon_pack: ''
+  name: Patent
+  url: https://software.nasa.gov/software/LAR-18789-1
+
 
 url_project: 
 #url_pdf: ""
