@@ -10,7 +10,7 @@ date: "2020-08-26T00:00:00Z"
 share: true
 
 # Optional external URL for project (replaces project detail page).
-#external_link: "https://gsawellfailure.com"
+#external_link:
 
 #header:
 #  image: "SLIP.jpg"
@@ -30,6 +30,10 @@ links:
   icon_pack: ''
   name: Paper
   url: https://doi.org/10.1175/EI-D-17-0022.1
+- icon: ''
+  icon_pack: ''
+  name: News
+  url: https://www.nasa.gov/feature/goddard/2016/using-nasa-data-to-detect-potential-landslides
 
 url_project: 
 #url_pdf: ""
