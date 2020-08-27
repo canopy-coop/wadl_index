@@ -13,7 +13,7 @@ share: true
 
 #header:
 #  image: "SLIP.jpg"
-#  caption: "Image credit: [**Rich Pauloo**](https://www.richpauloo.com/)"
+#  caption: "Image credit: [**Aakash Ahamed**](https://www.kashingtondc.github.io)"
 
 image: 
   caption: 
@@ -43,7 +43,8 @@ slides: ""
 
 ---
 
-Near-real-time estimates of changes in groundwater storage are critical to effectively monitor hydrologic systems. However, few methods exist that can assess both local and regional aquifer dynamics, especially in regions where groundwater monitoring wells are sparse or data is not publicly available. We developed a remote sensing based water mass balance method- the Hybrid Data Remote Sensing Assimilation (HyDRA) system, which integrates remotely sensed and in situ hydrologic data and models to estimate changes in groundwater storage at multiple spatial scales.
+Near-real-time estimates of changes in groundwater storage are critical to effectively monitor hydrologic systems. However, few methods exist that can assess both local and regional aquifer dynamics, especially in regions where groundwater monitoring wells are sparse or data is not publicly available. We developed a method that uses a combination of satellite and ground-based measurements of hydrologic properties (e.g., rainfall and soil moisture) to calculate changes in groundwater storage, and demonstrated this method in California’s Central Valley.
 
 {{< figure src="cvws_swe.gif" title="UC Boulder Snow-Water-Equivalent" lightbox="true" >}}
 
+ Our results agree with gravity measurements, physics-based flow models, and groundwater storage changes calculated from water levels in wells. The correspondence in trend, magnitude, and timing of storage changes confirmed by independent datasets improves our certainty in the amount of groundwater depletion in California occurring over the last ~20 years. Our approach relies heavily on remotely-sensed data; thus it may be readily extensible to other semiarid regions worldwide, and areas with limited access to data.
