@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-title = "We solve intractible problems"
-subtitle = ""
+title = "We love a challenge"
+subtitle = "Water Data Lab (WaDL) is a data driven think tank and research collective focused on bringing the best science and technology to address the hardest problems in global water resources."
 
 # Showcase personal skills or business features.
 # 
