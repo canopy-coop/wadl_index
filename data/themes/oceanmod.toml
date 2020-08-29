@@ -5,12 +5,12 @@ name = "oceanmod"
 light = true
 
 # Primary
-primary = "#eeb21e"
+primary = "#397343"
 
 # Menu
 menu_primary = "#fff" # 500
 menu_text = "#020000"
-menu_text_active = "#eeb21e" # A100
+menu_text_active = "#397343" # A100
 menu_title = "#020000"
 
 # Home sections
