@@ -1,5 +1,5 @@
 ---
-title: Sudden Landslide Identification Product (SLIP)
+title: Satellite Landslide Identification Product (SLIP)
 summary: Automated remote sensing-based landslide identification product
 
 #tags: 
