@@ -16,7 +16,7 @@ height = "calc(100vh - 70px)"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "WAter Data Lab"
+  title = "<b>WA</b>ter <b>D</b>ata <b>L</b>ab"
   content = "Hydrologic data science and engineering"
   align = "center"  # Choose `center`, `left`, or `right`.
 
