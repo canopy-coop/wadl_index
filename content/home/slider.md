@@ -16,7 +16,7 @@ height = "calc(100vh - 70px)"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "<b>WA</b>ter <b>D</b>ata <b>L</b>ab"
+  title = "<b>W</b>ater <b>D</b>ata <b>L</b>ab"
   content = "Hydrologic data science and engineering"
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -40,7 +40,7 @@ height = "calc(100vh - 70px)"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "shasta.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "patagonia.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
 [[item]]
@@ -49,6 +49,6 @@ height = "calc(100vh - 70px)"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "spectral_unmixing_2.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "shasta.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 +++
