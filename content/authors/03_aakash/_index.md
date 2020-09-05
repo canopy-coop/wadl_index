@@ -10,7 +10,7 @@ authors:
 #superuser: true
 
 # Role/position
-role: Hydrogeophysist
+role: Hydrogeophysicist
 
 # Organizations/Affiliations
 #organizations:
