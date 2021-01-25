@@ -10,7 +10,7 @@ authors:
 #superuser: true
 
 # Role/position
-role: Geologist and remote sensing expert
+role: Geologist, remote sensing expert
 
 # Organizations/Affiliations
 #organizations:
@@ -70,7 +70,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Partners
+- Founders
 ---
 
 I develop methods in satellite remote sensing to study terrestrial hydrologic processes and associated human impacts. Where earth science and geopolitics overlay, I seek to develop insights from remote sensing observations that support scientific research in terrestrial hydrology and diplomatic accountability in the monitoring and management of increasingly scarce freshwater resources.

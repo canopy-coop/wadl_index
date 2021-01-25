@@ -5,7 +5,7 @@ summary: Automated water quality reports for > 3,000 California public water sys
 #  - Data science  
 #  - Water
 #  - Web
-date: "2019-10-30T00:00:00Z"
+date: "2020-08-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 #external_link: "http://calwaterquality.com"

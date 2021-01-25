@@ -35,8 +35,9 @@ height = "calc(100vh - 70px)"
   #cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Water :droplet:"
-  content = "we consult on topics including remote sensing, hydrogeology, and surface and coastal hydrology"
+  # title = "Water :droplet:"
+  title = "Water"
+  content = "specialized consulting in water resources, remote sensing, hydrogeology, and surface and coastal hydrology"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
@@ -44,8 +45,9 @@ height = "calc(100vh - 70px)"
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Data 📈"
-  content = "we build and automate machine learning workflows, sensor networks, dashboards, databases, APIs, and ETL pipelines"
+  # title = "Data "
+  title = "Data "
+  content = "production grade databases, APIs, ETL pipelines, machine learning workflows, sensor networks, and dashboards"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
