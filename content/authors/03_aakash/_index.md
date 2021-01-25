@@ -10,7 +10,7 @@ authors:
 #superuser: true
 
 # Role/position
-role: Hydrogeophysicist
+role: Hydrogeophysist, remote sensing expert, data scientist
 
 # Organizations/Affiliations
 #organizations:
@@ -70,7 +70,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Partners
+- Founders
 ---
 
 Aakash Ahamed is a hydrologist developing scientific methods for satellite and airborne remote sensing measurements with applications to water resources, natural hazards, and agricultural systems. As a [PhD Candidate](https://earth.stanford.edu/people/aakash-ahamed) in the Department of Geophysics at [Stanford University](https://gemcenter.stanford.edu/), his current doctoral project focuses on modeling, monitoring, and forecasting key hydrologic components of the Central Valley Aquifer System in California using techniques in data assimilation and machine learning. 

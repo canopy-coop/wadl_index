@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
 title = "We love a challenge"
-subtitle = "Water Data Lab (WaDL) is a data driven think tank and research collective focused on bringing the best science and technology to address the hardest problems in global water resources."
+subtitle = "Water Data Lab LLC (WaDL) is a data-driven consultancy focused on bringing the best science and technology to address the hardest problems facing global water resources."
 
 # Showcase personal skills or business features.
 # 
@@ -19,21 +19,21 @@ subtitle = "Water Data Lab (WaDL) is a data driven think tank and research colle
   icon = "atom"
   icon_pack = "fas"
   name = "Scientific consulting"
-  description = "Expert advice on remote sensing, hydrogeology, and geophysics."
+  description = "Expertise in water resources, remote sensing, hydrogeology, and geophysics."
 
 
 [[feature]]
   icon = "square-root-alt"
   icon_pack = "fas"
   name = "Math and statistics"
-  description = "Custom consulting on mathematical and statistical approaches to hydrologic science." 
+  description = "Customized mathematical and statistical approaches for unique hydrologic problems." 
 
 
 [[feature]]
   icon = "network-wired"
   icon_pack = "fas"
   name = "Machine learning and AI"
-  description = "Interpretable statistical learning, neural networks, and unsupervised learning."
+  description = "Interpretable statistical and machine learning, neural networks."
   
 
 [[feature]]
