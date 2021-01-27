@@ -9,7 +9,7 @@ date: "2021-01-21T00:00:00Z"
 share: true
 
 # Optional external URL for project (replaces project detail page).
-#external_link: "https://gspdrywells.com"
+#external_link: "https://www.gspdrywells.com"
 
 #header:
 #  image: "shasta.png"
