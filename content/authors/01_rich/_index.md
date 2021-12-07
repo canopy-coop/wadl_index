@@ -10,7 +10,7 @@ authors:
 #superuser: true
 
 # Role/position
-role: Hydrogeologist, data scientist
+role: Principal Data Scientist, Hydrogeologist 
 
 # Organizations/Affiliations
 #organizations:
@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Founders
+- Partners
 ---
 
 I'm a hydrogeologist and data scientist developing scientific methods to monitor, model, and manage regional-scale aquifers, with applications in sustainable groundwater management, agricultural water use, and real-time natural resource monitoring.

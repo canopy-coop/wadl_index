@@ -67,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Founders
+- Partners
 ---
 
 Born and raised in South Korea, I finished high school at the Hankuk Academy of Foreign Studies with the Global Leader Certificate. I then moved to Austin, TX to attend the University of Texas at Austin (UT), where I received my B.S. in General Geology with Special Honors in Geological Sciences and B.A. in Music. During my time at UT, I gained valuable research experience in a paleogeochemistry lab, learning the basics of wet chemistry and soil sample processing. 
