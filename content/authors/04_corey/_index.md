@@ -10,7 +10,7 @@ authors:
 #superuser: true
 
 # Role/position
-role: Geologist, remote sensing expert
+role: Remote Sensing Scientist, Geologist
 
 # Organizations/Affiliations
 #organizations:
