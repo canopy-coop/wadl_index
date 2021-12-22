@@ -1,6 +1,6 @@
 ---
-title: Hybrid Data Remote Sensing Assimilation System (HyDRA)
-summary: Automated remote-sensing based software framework to assess water availability 
+title: Remote Sensing-based Water Balance
+summary: Automated remote-sensing based software framework to assess groundwater changes
 #tags: 
 #  - Remote Sensing
 #  - Water Resources
@@ -21,10 +21,12 @@ image:
   preview_only: false
 
 links:
+- name: Paper
+  url: https://doi.org/10.1016/j.scitotenv.2021.150635
 - icon: github
   icon_pack: fab
   name: Github
-  url: https://github.com/kashingtonDC/HyDRA
+  url: https://github.com/kashingtonDC/RS_GW
 
 
 url_project: 
