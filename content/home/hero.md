@@ -2,10 +2,10 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "WAter Data Lab"
+#title = "<h1>&nbsp;&nbsp;&nbsp;<b>Wa</b>ter <b>D</b>ata <b>L</b>ab</h1>"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 #hero_media = ""
@@ -36,11 +36,11 @@ title = "WAter Data Lab"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-#[cta]
-#  url = "https://sourcethemes.com/academic/docs/install/"
-#  label = "Get Started"
-#  icon_pack = "fas"
-#  icon = "download"
+[cta]
+  url = "#projects"
+  label = "View selected projects"
+  icon_pack = "fas"
+  icon = "arrow-right"
   
 #[cta_alt]
 #  url = "https://sourcethemes.com/academic/"
@@ -51,12 +51,19 @@ title = "WAter Data Lab"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-<br>
 
-Full stack hydrogologic data science.  
-
-
+<p style="font-size: 45px"><b>Wa</b>ter <b>D</b>ata <b>L</b>ab</p>
 
 <br>
+
+<p style="font-size: 30px"><i>Full stack hydrogologic data science & engineering.</i></p>
+
+<p style="font-size: 21px">
+⚛️ specialized scientific consulting<br>
+📈 production databases/pipelines/APIs<br>
+📡 sensor networks and dashboards<br>
+</p> 
+
+
 <br>
 <br>

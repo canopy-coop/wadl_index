@@ -5,7 +5,7 @@ summary: Automated remote-sensing based software framework to assess groundwater
 #  - Remote Sensing
 #  - Water Resources
 #  - Data Science
-date: "2020-08-26T00:00:00Z"
+date: "2022-02-28T00:00:00Z"
 share: true
 
 # Optional external URL for project (replaces project detail page).
