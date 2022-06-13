@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Rich Pauloo, PhD
+title: Rich Pauloo, PhD
 
 # Rich (this should match the folder name)
 authors:

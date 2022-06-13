@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Corey Scher, MS
+title: Corey Scher, MS
 
 # Corey (this should match the folder name)
 authors:

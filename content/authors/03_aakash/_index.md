@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Aakash Ahamed, MS
+title: Aakash Ahamed, MS
 
 # Rich (this should match the folder name)
 authors:
