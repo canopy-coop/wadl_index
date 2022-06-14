@@ -48,8 +48,6 @@ slides: ""
 
 {{< figure library="true" src="watergrid_mockup.png" >}}  
 
-Custom solutions for automated, real-time streaming of environmental data from sensor-networks deployed in the field, directly to the web.  
+We provide custom solutions for automated, real-time streaming of environmental data from in-situ, sensor-networks deployed in the field to remote satellite sensors, all directly accessible on the web.  
 
-These cloud-based, lightweight, scalable groundwater observatory dashboards are easily applied to any [low cost sensor network](https://doi.org/10.3390/w12041066).
-
-This solutions is well suited for groundwater monitoring to support implementation of [California's Sustainable Groundwater Management Act](https://water.ca.gov/Programs/Groundwater-Management/SGMA-Groundwater-Management), but also general enough to be applied to real-time data from any sensor.
+Most solutions in this space have been applied to groundwater monitoring to support implementation of [California's Sustainable Groundwater Management Act](https://water.ca.gov/Programs/Groundwater-Management/SGMA-Groundwater-Management). They include software and dashboards to track Sustainable Management Criteria, water budgets, groundwater model output, in-situ sensors (e.g., aquifer storage and recovery wells, flood- and Ag-MAR projects, streamflow) and remotely sensed data (e.g., NDVI, SAR). Importantly, these tools and technologies are applicable to any system. Where no solution exists in our toolbox, we designed custom solutions for clients.
