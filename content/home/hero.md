@@ -56,7 +56,7 @@ weight = 10  # Order that this section will appear.
 
 <br>
 
-<p style="font-size: 30px"><i>Full stack hydrogologic data science & engineering.</i></p>
+<p style="font-size: 30px"><i>Full stack hydrologic data science & engineering.</i></p>
 
 <p style="font-size: 21px">
 ⚛️ specialized scientific consulting<br>
