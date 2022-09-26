@@ -1,5 +1,5 @@
 ---
-title: Development of nationwide a water system boundary layer
+title: Development of nationwide water system boundary layer
 summary: Development of water service boundaries for 44,919 community water systems that deliver tap water to 306.88 million people in the US (97.22% of the population).  
 #tags: 
 #  - Data science  
