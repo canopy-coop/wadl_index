@@ -21,9 +21,9 @@ role: Hydrogeophysist, remote sensing expert, data scientist
 #bio: 
 
 interests:
-- Remote Sensing of Hydrology and Biomass
-- Model - Data fusion
-- Data assimilation and Machine Learning for applications in water resources, natural hazards, and agriculture
+- Remote Sensing of Hydrologic and Biologic processes
+- Multi-sensor data fusion
+- Machine Learning and Data Assimilation
 
 education:
   courses:
