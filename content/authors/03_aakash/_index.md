@@ -21,7 +21,7 @@ role: Hydrogeophysist, remote sensing expert, data scientist
 #bio: 
 
 interests:
-- Hydrologic Remote Sensing
+- Remote Sensing of Hydrology and Biomass
 - Model - Data fusion
 - Data assimilation and Machine Learning for applications in water resources, natural hazards, and agriculture
 
@@ -73,6 +73,6 @@ user_groups:
 - Partners
 ---
 
-Aakash Ahamed is a hydrologist developing scientific methods for satellite and airborne remote sensing measurements with applications to water resources, natural hazards, and agricultural systems. As a [PhD Candidate](https://earth.stanford.edu/people/aakash-ahamed) in the Department of Geophysics at [Stanford University](https://gemcenter.stanford.edu/), his current doctoral project focuses on modeling, monitoring, and forecasting key hydrologic components of the Central Valley Aquifer System in California using techniques in data assimilation and machine learning. 
+Aakash Ahamed is a hydrologist and remote sensing scientist developing methods to quantify water and carbon using sensors on satellites, aircraft, drones, and smartphones. His research has applications in water resources, natural hazards, agriculture, and energy. He completed his [doctoral studies](https://earth.stanford.edu/people/aakash-ahamed) in the Department of Geophysics at [Stanford University](https://gemcenter.stanford.edu/), where his thesis project involved the development of physics based models of groundwater systems in California, leveraging data from over 15 satellite instruments.
 
-Aakash previously worked as a support scientist in the [Hydrological Sciences Lab](https://science.gsfc.nasa.gov/earth/hydrology/) at NASA Goddard Space Flight Center, where he constructed [satellite-based models of flood and landslide hazards](https://www.nasa.gov/feature/goddard/2018/scientists-deploy-damage-assessment-tool-in-laos-relief-efforts/). He was recently awarded a National Geographic Explorer Fellowship to integrate drone imagery into satellite-based flood monitoring systems. He has also developed remote sensing analyses and software at [Ceres Imaging](https://www.ceresimaging.net/), a successful precision agriculture start up based in Silicon Valley, and interned as a GIS analyst at the World Wildlife Fund for Nature in Washington, DC.
+Aakash is currently the CTO of [Working Trees] (http://workingtrees.com), and previously worked as a support scientist in the [Hydrological Sciences Lab](https://science.gsfc.nasa.gov/earth/hydrology/) at NASA Goddard Space Flight Center, where he constructed [satellite-based models of flood and landslide hazards](https://www.nasa.gov/feature/goddard/2018/scientists-deploy-damage-assessment-tool-in-laos-relief-efforts/). He was recently awarded a National Geographic Explorer Fellowship to integrate drone imagery into satellite-based flood monitoring systems. He has also developed remote sensing analyses and software at [Ceres Imaging](https://www.ceresimaging.net/), a successful precision agriculture start up based in Silicon Valley, and interned as a GIS analyst at the World Wildlife Fund for Nature in Washington, DC.
